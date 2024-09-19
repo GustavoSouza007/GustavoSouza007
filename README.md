@@ -48,4 +48,10 @@
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GustavoSouza007&repo=supermarket-list-frontend&theme=github_dark&border_color=4493f8)](https://github.com/GustavoSouza007/supermarket-list-frontend)
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GustavoSouza007&repo=wallet-web-frontend&theme=github_dark&border_color=4493f8)](https://github.com/GustavoSouza007/wallet-web-frontend)
 
+   <picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoSouza007/GustavoSouza007/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoSouza007/GustavoSouza007/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GustavoSouza007/GustavoSouza007/output/github-contribution-grid-snake.svg">
+</picture>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d56da&height=120&section=footer"/>
