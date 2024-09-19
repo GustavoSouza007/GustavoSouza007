@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4493f8&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!;I+am+a+Front-end+developer.)](https://git.io/typing-svg) 
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px></picture>  About Me
-<h4 align="center">My journey in software development began in 2022, and since then, I have continuously expanded my skill set and expertise across various technologies and tools.</h4>
+<h4 align="center">My journey in web development began in 2022, and since then, I have continuously expanded my skill set and expertise across various technologies and tools.</h4>
 <p align="center">
   <a href="mailto:gustavosouzatrindade10@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
