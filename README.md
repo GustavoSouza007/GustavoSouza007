@@ -46,7 +46,7 @@
   
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GustavoSouza007&repo=bookclub-web&theme=github_dark&border_color=4493f8)](https://github.com/GustavoSouza007/bookclub-web)
    [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GustavoSouza007&repo=supermarket-list-frontend&theme=github_dark&border_color=4493f8)](https://github.com/GustavoSouza007/supermarket-list-frontend)
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GustavoSouza007&repo=wallet-web-frontend&theme=github_dark&border_color=4493f8)](https://github.com/GustavoSouza007/wallet-web-frontend)
+   
 
    <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoSouza007/GustavoSouza007/output/github-contribution-grid-snake-dark.svg">
