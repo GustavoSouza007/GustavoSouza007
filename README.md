@@ -16,7 +16,7 @@
 <img align='right' alt="Coding" width="500"  src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
  <br>
 
-
+![card](https://github-readme-stats.vercel.app/api?username=GustavoSouza007&theme=github_dark&show_icons=true&hide_rank=true&hide=issues,contribs&custom_title=My+Github+Stats&border_color=4493f8) 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Skills
 
